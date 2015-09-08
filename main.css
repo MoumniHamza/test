@@ -1,0 +1,78 @@
+﻿@charset "utf-8";
+body {
+	margin-left: 100px;
+	margin-top: 20px;
+	color: #FFEDED;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: oblique;
+	text-align: left;
+	text-shadow: 2px 2px #161515;
+	font-weight: 800;
+	font-size: large;
+	font-variant: normal;
+	margin-bottom: 0px;
+	padding-bottom: 0pt;
+}
+img  {
+	margin-left: 0px;
+}
+.img2 {
+    margin-top: 220px;
+	margin-right: 0px;
+	margin-left: 610px;
+}
+.img1 {
+	padding-left: 0px;
+	margin-left: 110px;
+}
+.img3 {
+	margin-left: 110px;
+}
+.menu ul li {
+	text-align: left;
+	float: left;
+	list-style-type: none;
+}
+services {
+}
+.services {
+	margin-left: 130px;
+}
+.contact {
+	margin-left: 105px;
+}
+
+
+
+
+
+
+
+
+
+
+
+body h3 {
+	margin-top: -4px;
+	color: #FFEDED;
+	font-style: italic;
+	font-variant: small-caps;
+	font-weight: 600;
+	float: left;
+	padding-top: 0px;
+}
+.about {
+	margin-left: 580px;
+    margin-bottom : 10px;
+    margin-top: -30px;
+}
+.facebook {
+	margin-left: 1600px;
+    margin-top: -40px;
+}
+.git {
+	margin-left: 20px;
+}
+.linkedin {
+	margin-left: 20px;
+}
